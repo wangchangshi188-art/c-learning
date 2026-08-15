@@ -1,0 +1,16 @@
+# 编译产物（目标文件 / 可执行文件）
+*.o
+*.obj
+*.out
+*.exe
+a.out
+
+# 构建目录
+build/
+
+# 编辑器 / 系统
+*.swp
+.DS_Store
+
+# WorkBuddy 项目内部数据，不纳入版本控制
+.workbuddy/
