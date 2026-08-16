@@ -14,3 +14,7 @@ build/
 
 # WorkBuddy 项目内部数据，不纳入版本控制
 .workbuddy/
+
+.env        //密码不上传git
+
+node_modules/
